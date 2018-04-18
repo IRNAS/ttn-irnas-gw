@@ -11,13 +11,20 @@ IRNAS outdoor LoraWAN gateway joins great solutions into an unified gateway:
  * Polyethilene tubing for enclosure 75mm diameter
  * 3D printed part by IRNAS to mount everything together
 
-The final product is a simple and and cost-effective gateway for about 250EUR anyone can make and simply install outdoor. With this design we have achieved over 50km coverage between Pohorje mountain and cities of Graz in Austria and Zagreb in Croatia.
+The final product is a simple and and cost-effective gateway for about 250 EUR anyone can make and simply install outdoor. With this design we have achieved over 50 km coverage between Pohorje mountain and cities of Graz in Austria and Zagreb in Croatia.
 
 
 ## Assembly instructions
-Assembly instructions are coming up shortly, however the posted images are sufficient for replicating the design. The only custom mechanical part that can be 3D printed or milled available in this repository in the folder: mount.
+Assembly instructions are coming up shortly, however the posted images are sufficient for replicating the design. The only custom mechanical part that can be 3D printed or milled available in this repository in the folder: mount and on [this link](https://a360.co/2HcsiBF).
+
+<img src="/img/irnas-outdoor-lorawan-gateway-2.jpg"  width="850px">
+
+<img src="/img/irnas-outdoor-lorawan-gateway-3.jpg"  width="425"> <img src="/pics/irnas-outdoor-lorawan-gateway-4.jpg"  width="425"> 
+
 
 ## Co-linear antenna wire
 Bending the wire for the co-linear 5.5dB antenna is likely the most challenging part and requires special care. Note that the frequency is tuned with the diameter of the loop and thus it must be made rather precisely.
 
 Step-by-step instructions coming up shortly.
+
+<img src="/img/irnas-outdoor-lorawan-gateway-1.jpg"  width="850px">
