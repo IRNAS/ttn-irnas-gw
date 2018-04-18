@@ -19,7 +19,7 @@ Assembly instructions are coming up shortly, however the posted images are suffi
 
 <img src="/img/irnas-outdoor-lorawan-gateway-2.jpg"  width="850px">
 
-<img src="/img/irnas-outdoor-lorawan-gateway-3.jpg"  width="425"> <img src="/pics/irnas-outdoor-lorawan-gateway-4.jpg"  width="425"> 
+<img src="/img/irnas-outdoor-lorawan-gateway-3.jpg"  width="425"> <img src="/img/irnas-outdoor-lorawan-gateway-4.jpg"  width="425"> 
 
 
 ## Co-linear antenna wire
