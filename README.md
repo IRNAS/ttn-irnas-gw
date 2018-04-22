@@ -6,7 +6,8 @@ IRNAS outdoor LoraWAN gateway joins great solutions into an unified gateway:
  * RAK wireless RAK831 gateway module http://www.rakwireless.com/en/WisKeyOSH/RAK831
  * Raspberry Pi Zero W embedded computer + SD card https://www.raspberrypi.org/products/raspberry-pi-zero-w/
  * RAK-Raspberry Pi shield by ch2i https://github.com/hallard/RAK831-Zero
- * USB-Ethernet adapter and Waterproof PoE injector https://www.aliexpress.com/item/High-Quality-5-Pin-Micro-USB-2-0-To-RJ45-LAN-Ethernet-Network-Adapter-100Mbps-For/32789232255.html
+ * USB-Ethernet adapter: https://www.aliexpress.com/item/High-Quality-5-Pin-Micro-USB-2-0-To-RJ45-LAN-Ethernet-Network-Adapter-100Mbps-For/32789232255.html
+ * Waterproof PoE injector http://szzq.en.alibaba.com/product/60307069118-209893270/IP67_waterproof_RJ45_ethernet_cable_connector.html
  * DIY 5.5dB co-linear antenna designed by Fabien Ferrero from UNICE in France
  * Polyethilene tubing for enclosure 75mm diameter
  * 3D printed part by IRNAS to mount everything together
