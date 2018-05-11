@@ -24,10 +24,8 @@ Assembly instructions are coming up shortly, however the posted images are suffi
 
 
 ## Co-linear antenna wire
-Bending the wire for the co-linear 5.5dB antenna is likely the most challenging part and requires special care. Note that the frequency is tuned with the diameter of the loop and thus it must be made rather precisely. Design available in [pdf Collinear 868 MHz LoRa antenna](Collinear868MHzLoRaantenna.PDF).
+Bending the wire for the co-linear 5.5dB antenna is likely the most challenging part and requires special care. Note that the frequency is tuned with the diameter of the loop and thus it must be made rather precisely. Design available in [pdf Collinear 868 MHz LoRa antenna](Collinear868MHzLoRaantenna.PDF). Step-by-step instructions on how to make the antenna available in this [video tutorial](https://youtu.be/1_1LxuOngHs).
 
 <img src="/img/Collinear 868 MHz LoRa antenna.jpg"  width="850px">
-
-Step-by-step instructions coming up shortly.
 
 <img src="/img/irnas-outdoor-lorawan-gateway-1.jpg"  width="850px">
