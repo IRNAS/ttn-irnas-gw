@@ -6,7 +6,7 @@ IRNAS outdoor LoraWAN gateway joins great solutions into an unified gateway:
 * RAK Wireless RAK831 concentrator option:
   * RAK wireless RAK831 gateway module http://www.rakwireless.com/en/WisKeyOSH/RAK831
   * RAK-Raspberry Pi shield by ch2i https://github.com/hallard/RAK831-Zero
- 
+
 * IMST iC880A concentrator option:
   * IMST ic880A concentrator https://wireless-solutions.de/products/radiomodules/ic880a.html
   * iC880A RPi shield/backplane https://www.tindie.com/products/gnz/imst-ic880a-lorawan-backplane-kit/
@@ -30,11 +30,23 @@ Assembly instructions are coming up shortly, however the posted images are suffi
 
 <img src="/img/irnas-outdoor-lorawan-gateway-2.jpg"  width="850px">
 
-<img src="/img/irnas-outdoor-lorawan-gateway-3.jpg"  width="425"> <img src="/img/irnas-outdoor-lorawan-gateway-4.jpg"  width="425"> 
+RAK Wireless RAK831 concentrator option
+
+<img src="/img/irnas-outdoor-lorawan-gateway-7.jpg"  width="425"> <img src="/img/irnas-outdoor-lorawan-gateway-5.jpg"  width="425">
+
+<img src="/img/irnas-outdoor-lorawan-gateway-6.jpg"  width="425"> <img src="/img/irnas-outdoor-lorawan-gateway-3.jpg"  width="425">
+
+IMST iC880A concentrator option
+
+<img src="/img/irnas-outdoor-lorawan-gateway-8.jpg"  width="425"> <img src="/img/irnas-outdoor-lorawan-gateway-9.jpg"  width="425">
+
+<img src="/img/irnas-outdoor-lorawan-gateway-10.jpg"  width="425"> <img src="/img/irnas-outdoor-lorawan-gateway-11.jpg"  width="425">
+
+<img src="/img/irnas-outdoor-lorawan-gateway-4.jpg"  width="850px">
 
 
 ## Co-linear antenna wire
-Bending the wire for the co-linear 5.5dB antenna is likely the most challenging part and requires special care. Note that the frequency is tuned with the diameter of the loop and thus it must be made rather precisely. Design available in [pdf Collinear 868 MHz LoRa antenna](Collinear868MHzLoRaantenna.PDF). Step-by-step instructions on how to make the antenna available in this [video tutorial](https://youtu.be/1_1LxuOngHs).
+Bending the wire for the co-linear 5.5dB antenna is likely the most challenging part and requires special care. Note that the frequency is tuned with the diameter of the loop and thus it must be made rather precisely. There are two antenna designs available, [one for 868MHZ EU](Collinear868MHzLoRaantenna.PDF) and [the other for 915MHz USA](CollinearLoRaantenna915MHzIRNAS.pdf). Step-by-step instructions on how to make the antenna available in this [video tutorial](https://youtu.be/1_1LxuOngHs).
 
 <img src="/img/Collinear 868 MHz LoRa antenna.jpg"  width="850px">
 
