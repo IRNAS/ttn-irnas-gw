@@ -1,6 +1,14 @@
-# TheThingsNetwork LoraWAN gateway with RAK831 / IMST iC880A and RaspberryPi Zero W for outdoor use with 5.5dB colinear antenna
+# TheThingsNetwork LoraWAN gateway with RAK831 / IMST iC880A and RaspberryPi Zero W for outdoor use. DIY 5.5dB colinear antenna or N connector antenna.
 
 To boost the growth of cost-effective community established outdoor gateways we have designed IRNAS outdoor LoraWAN gateway that includes all components and an antenna element in a weatherproof enclosure. This way communities can easily deploy good quality gateways with minimal costs.
+
+There are two key design options available, subject to selecting the antenna:
+* DIY colinear antenna with designed gain of 5.5dB, typically build quality reducsed this to about 3dB (shown left)
+* N-connector option for other antennas, default option is RAK wireless omni glass fiber antenna 6dB (design files to be avilable shortly) (shown right)
+
+<img src="/img/irnas-outdoor-lorawan-gateway-4.jpg"  width="425px"> <img src="/img/irnas-outdoor-lorawan-gateway-compact.jpg"  width="425px"> 
+
+
 IRNAS outdoor LoraWAN gateway joins great solutions into an unified gateway:
 
 * RAK Wireless RAK831 concentrator option:
@@ -21,6 +29,7 @@ IRNAS outdoor LoraWAN gateway joins great solutions into an unified gateway:
   * Polyethilene tubing for enclosure 75mm diameter
   * 3D printed part by IRNAS to mount everything together
   * 24V Passive PoE injector/power supply
+  * Optional INA219 current measurement board via I2C
 
 The final product is a simple and and cost-effective gateway for about 250 EUR anyone can make and simply install outdoor. With this design we have achieved over 50 km coverage between Pohorje mountain and cities of Graz in Austria and Zagreb in Croatia.
 
