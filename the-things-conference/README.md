@@ -24,7 +24,7 @@ Insert the larger lid with electronics into the larger tube.
 
 <img src="/the-things-conference/img/IMG_20181003_101854.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_101944.jpg"  width="425">
 
-Insert the smaler tube into the larger tube. Be careful not to damage the antenna.
+Insert the smaler tube into the larger tube. Be careful not to damage the antenna - DO NOT insert the smaller tube all the way into the larger tube.
 
 <img src="/the-things-conference/img/IMG_20181003_102051.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_102136.jpg"  width="425">
 
