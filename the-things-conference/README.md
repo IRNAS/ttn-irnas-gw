@@ -6,7 +6,7 @@
 
 <img src="/the-things-conference/img/IMG_20181003_100157.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_100219.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_100254.jpg" width="425">
 
-<img src="/the-things-conference/img/IMG_20181003_100332.jpg"  width="425"> <the-things-conference/img src="/img/IMG_20181003_100553.jpg"  width="425">
+<img src="/the-things-conference/img/IMG_20181003_100332.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_100553.jpg"  width="425">
 
 <img src="/the-things-conference/img/IMG_20181003_101259.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_101334.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_101830.jpg" width="425">
 
