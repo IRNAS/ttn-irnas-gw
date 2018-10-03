@@ -32,4 +32,4 @@
 
 <img src="/the-things-conference/img/IMG_20181003_111522.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_111728.jpg"  width="425">
 
-<img src="/the-things-conference/img/IMG_20181003_111950.jpg"  width="425"
+<img src="/the-things-conference/img/IMG_20181003_111950.jpg"  width="425">
