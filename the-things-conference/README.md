@@ -8,7 +8,7 @@ Prepare and insert the micro SD card into the Raspberry Pi.
 
 <img src="/the-things-conference/img/IMG_20181003_095125.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_095201.jpg"  width="425">
 
-Take the larger plastic lid and attache the ethernet cable gland.
+Take the larger plastic lid and attach the ethernet cable gland.
 
 <img src="/the-things-conference/img/IMG_20181003_100157.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_100219.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_100254.jpg" width="425">
 
