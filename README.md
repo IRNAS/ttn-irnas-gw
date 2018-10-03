@@ -1,6 +1,26 @@
-# TheThingsNetwork LoraWAN gateway with RAK831 / IMST iC880A and RaspberryPi Zero W for outdoor use. DIY 5.5dB colinear antenna or N connector antenna.
+# LoraWAN gateway for TheThingsNetwork
+To boost the growth of cost-effective community established outdoor gateways we have designed IRNAS outdoor LoraWAN gateway that includes all components and an antenna element in a weatherproof enclosure. This way communities can easily deploy good quality gateways with minimal costs. Currently there are a number of different designs available:
+ 1. TheThingsConference Slovenia GW RPi 3b+ using resin.io and RAK831 (latest), optional external antenna, optional 3G uplink
+ 1. RPi Zero W and RAK831/IMST iC880A
 
-To boost the growth of cost-effective community established outdoor gateways we have designed IRNAS outdoor LoraWAN gateway that includes all components and an antenna element in a weatherproof enclosure. This way communities can easily deploy good quality gateways with minimal costs.
+# TheThingsConference Slovenia gateway LoraWAN gateway RAK wireless RAK831, Raspberry Pi 3B+ with resin.io and IRNAS connecting PCB
+This gateway desing is the latest in series of the gateways, optimized for simple assembly and reliable outdoor operation. It is available in basic and external antenna configurations:
+
+* Components of basic version
+  * RAK wireless RAK831 gateway module http://www.rakwireless.com/en/WisKeyOSH/RAK831 (TheThingsNetwork Conference on Tour Maribor units sponsored by RAK wireless)
+  * IRNAS https://github.com/IRNAS/RPi-HAT-RAK831-PoE PCB (TheThingsNetwork Conference on Tour Maribor units sponsored by IRNAS)
+  * Raspberry Pi 3B+ (TheThingsNetwork Conference on Tour Maribor units sponsored by resin.io)
+  * micro SD card 16GB (TheThingsNetwork Conference on Tour Maribor units sponsored by resin.io)
+  * Waterproof PoE connector (TheThingsNetwork Conference on Tour Maribor units sponsored by resin.io)
+  * Polyethilene tubing for enclosure (TheThingsNetwork Conference on Tour Maribor units sponsored by resin.io)
+  * 24V Passive PoE injector/power supply (TheThingsNetwork Conference on Tour Maribor units sponsored by IRNAS)
+
+* Components of upgrade
+  * SMA to N-connector adapter
+  * RAK wireless 4dB 868MHz antenna
+  * Pipe mounts for installing the GW outdoors
+
+# TheThingsNetwork LoraWAN gateway with RAK831 / IMST iC880A and RaspberryPi Zero W for outdoor use. DIY 5.5dB colinear antenna or N connector antenna.
 
 There are two key design options available, subject to selecting the antenna:
 * DIY colinear antenna with designed gain of 5.5dB, typically build quality reducsed this to about 3dB (shown left)
