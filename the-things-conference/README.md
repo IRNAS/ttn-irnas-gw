@@ -1,10 +1,12 @@
-# Gateway configuration
+# LoraWAN Gateway configuration
 
-Slides from the workshop at The Things Conference On Tour in Maribor that will help you to configure your own LoraWAN gateway are available [HERE](https://speakerdeck.com/pimterry/build-your-own-ttn-gateway-with-resin-dot-io-and-rak-wireless). If you need any help or quiestions do not hesitate to [contact us](https://www.irnas.eu/contact/).
+Slides from the workshop at The Things Conference On Tour in Maribor that will help you to configure your own LoraWAN gateway are available [HERE](https://speakerdeck.com/pimterry/build-your-own-ttn-gateway-with-resin-dot-io-and-rak-wireless). If you need any help or have any questions do not hesitate to [contact us](https://www.irnas.eu/contact/).
 
 <img src="/the-things-conference/img/IMG_20181003_095044.jpg"  width="425"> <img src="https://www.thethingsnetworkslovenia.org/wp-content/uploads/2018/07/The_Things_Conference_On_Tour_Logo-transparent-1024x768.png"  width="425">
 
-# Waterproof housing - assembly instructions
+# Assembly instructions for waterproof housing
+
+The next steps will help you to assemble the waterproof housing for the LoraWAN Gateway and prepare it for the outdoor mounting.
 
 Take the assembled electronics stack, consisting of Raspberry Pi and RAK Wireless RAK831 concentrator.
 
@@ -34,9 +36,9 @@ Insert the smaler tube into the larger tube. Be careful not to damage the antenn
 
 <img src="/the-things-conference/img/IMG_20181003_102051.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_102136.jpg"  width="425">
 
-## Antenna upgrade - assembly instructions
+## External antenna upgrade
 
-Antenna upgrade kit.
+The next steps will help you to assemble and attach the external antenna upgrade kit. If you would like to upgrade your LoraWAN Gateway with an external antenna please [contact us](https://www.irnas.eu/contact/).
 
 <img src="/the-things-conference/img/IMG_20181003_103238.jpg"  width="425">
 
@@ -60,9 +62,11 @@ Attach the antenna.
 
 <img src="/the-things-conference/img/IMG_20181003_105445.jpg"  width="425">
 
-## Mounting upgrade - assembly instructions
+## Mounting upgrade
 
-Mounting upgrade kit. Assemble monuting clips.
+The next steps will help you to assemble and attach the mounting upgrade kit. If you would like to upgrade your LoraWAN Gateway with a mounting kit please [contact us](https://www.irnas.eu/contact/).
+
+Assemble monuting clips.
 
 <img src="/the-things-conference/img/IMG_20181003_111522.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_111728.jpg"  width="425">
 
