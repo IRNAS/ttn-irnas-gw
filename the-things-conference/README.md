@@ -1,4 +1,4 @@
-# Assembly instructions
+# Waterproof housing - assembly instructions
 
 Take the assembled electronics stack, consisting of Raspberry Pi and RAK Wireless RAK831 concentrator.
 
@@ -54,7 +54,7 @@ Attach the antenna.
 
 <img src="/the-things-conference/img/IMG_20181003_105445.jpg"  width="425">
 
-# Mounting upgrade - assembly instructions
+## Mounting upgrade - assembly instructions
 
 Mounting upgrade kit. Assemble monuting clips.
 
