@@ -1,8 +1,6 @@
 # Build and configure your own LoraWAN gateway from The Things Conference On Tour!
 
-<img src="/the-things-conference/img/IMG_20181003_095044.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_102136.jpg"  width="425">
-
-<img src="https://www.thethingsnetworkslovenia.org/wp-content/uploads/2018/07/The_Things_Conference_On_Tour_Logo-transparent-1024x768.png"  width="425">  Instructions available [HERE](https://github.com/IRNAS/ttn-irnas-gw/tree/master/the-things-conference).
+<img src="/the-things-conference/img/IMG_20181003_095044.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_102136.jpg"  width="425"> <img src="https://www.thethingsnetworkslovenia.org/wp-content/uploads/2018/07/The_Things_Conference_On_Tour_Logo-transparent-1024x768.png"  width="425">  Instructions available [HERE](https://github.com/IRNAS/ttn-irnas-gw/tree/master/the-things-conference).
 
 
 # LoraWAN gateway for TheThingsNetwork
