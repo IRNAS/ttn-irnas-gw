@@ -1,3 +1,7 @@
+# Gateway configuration
+
+Slides from the workshop at The Things Conference On Tour in Maribor that will help you to configure your own LoraWAN gateway are available [HERE](bit.ly/resin-ttn-workshop). If you need any help or quiestions do not hesitate to [contact us](https://www.irnas.eu/contact/).
+
 # Waterproof housing - assembly instructions
 
 Take the assembled electronics stack, consisting of Raspberry Pi and RAK Wireless RAK831 concentrator.
