@@ -2,6 +2,8 @@
 
 <img src="/the-things-conference/img/IMG_20181003_095044.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_102136.jpg"  width="425">
 
+Instructions available [HERE](https://github.com/IRNAS/ttn-irnas-gw/tree/master/the-things-conference).
+
 
 # LoraWAN gateway for TheThingsNetwork
 
