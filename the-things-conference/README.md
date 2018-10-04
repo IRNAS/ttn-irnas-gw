@@ -28,7 +28,7 @@ Insert the smaler tube into the larger tube. Be careful not to damage the antenn
 
 <img src="/the-things-conference/img/IMG_20181003_102051.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_102136.jpg"  width="425">
 
-# Antenna upgrade - assembly instructions
+## Antenna upgrade - assembly instructions
 
 Antenna upgrade kit.
 
