@@ -1,4 +1,10 @@
+# Build and configure your own LoraWAN gateway from The Things Conference On Tour!
+
+<img src="/the-things-conference/img/IMG_20181003_095044.jpg"  width="425"> <img src="/the-things-conference/img/IMG_20181003_102136.jpg"  width="425">
+
+
 # LoraWAN gateway for TheThingsNetwork
+
 To boost the growth of cost-effective community established outdoor gateways we have designed IRNAS outdoor LoraWAN gateway that includes all components and an antenna element in a weatherproof enclosure. This way communities can easily deploy good quality gateways with minimal costs. Currently there are a number of different designs available:
  1. TheThingsConference Slovenia GW RPi 3b+ using resin.io and RAK831 (latest), optional external antenna, optional 3G uplink
  1. RPi Zero W and RAK831/IMST iC880A
