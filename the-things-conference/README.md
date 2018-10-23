@@ -4,6 +4,8 @@ Slides from the workshop at The Things Conference On Tour in Maribor that will h
 
 <img src="/the-things-conference/img/IMG_20181003_095044.jpg"  width="425"> <img src="https://www.thethingsnetworkslovenia.org/wp-content/uploads/2018/07/The_Things_Conference_On_Tour_Logo-transparent-1024x768.png"  width="425">
 
+**Attention: There is a mistake on the slides from the workshop. On the slide 12 of the instructions the GW_RESET_PIN is set to 11 but it should be set to 22 instead.**
+
 # Assembly instructions for waterproof housing
 
 The next steps will help you to assemble the waterproof housing for the LoraWAN Gateway and prepare it for the outdoor mounting.
